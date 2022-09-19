@@ -4,5 +4,5 @@
  
 [Paper](https://arxiv.org/pdf/2108.00596.pdf).
 
-Code will be realesed soon.  
+Code will be released soon.  
 
